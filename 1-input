@@ -1,0 +1,7 @@
+#!/bin/python
+#A script to input data
+
+def details(name, location):
+ input("what is your name?: ")
+ input("what is your location?: ")
+ return(name,location)

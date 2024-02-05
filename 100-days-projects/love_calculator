@@ -22,6 +22,8 @@ second_digit = l + o + v + e
 
 #Combines the two digits
 score = int(str(first_digit) + str(second_digit))
+
+#Tests the compatibility
 if score < 10 or score > 90:
   print(f"Your score is {score}, you go together like coke and mentos.")
 elif score >= 40 and score <= 50:

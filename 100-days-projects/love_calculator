@@ -2,8 +2,8 @@
 #The projects tests the compatibility between two people using the names
 print("Tests the compatibility between two people")
 print("------------------------------------------")
-name1 = input("Enter the names of the first person:")
-name2 = input("Enter the names of the second person")
+name1 = input("Enter the names of the first person: ")
+name2 = input("Enter the names of the second person: ")
 
 #Checks the number of times the words "true" and "love" appear in the names of the two people
 combined_names = name1 + name2

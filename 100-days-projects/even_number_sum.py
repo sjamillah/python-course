@@ -19,3 +19,13 @@ print(f"The total is: {total_num}")
 # for num in range(2, target + 1, 2):
     # total += num
 # print(f"The total is: {total}")
+
+#or
+
+#print("Adds all the even numbers from 0 to 1000")
+#target = int(input("Please input numbers from 0 to 1000: "))
+#total = 0
+#for num in range(1, target + 1):
+ # if num % 2 == 0:
+  #  total += num
+#print(f"The total is: {total}")
